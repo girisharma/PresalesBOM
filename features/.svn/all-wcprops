@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/presalesbom/!svn/ver/50/trunk/features
+END
+cost_models.feature
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/presalesbom/!svn/ver/50/trunk/features/cost_models.feature
+END
+user_logs_into_site.feature
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/presalesbom/!svn/ver/28/trunk/features/user_logs_into_site.feature
+END
+adding_site_to_opportunities.feature
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/presalesbom/!svn/ver/50/trunk/features/adding_site_to_opportunities.feature
+END

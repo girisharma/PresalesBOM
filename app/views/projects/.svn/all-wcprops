@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/presalesbom/!svn/ver/49/trunk/app/views/projects
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/presalesbom/!svn/ver/29/trunk/app/views/projects/index.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/presalesbom/!svn/ver/49/trunk/app/views/projects/show.html.erb
+END

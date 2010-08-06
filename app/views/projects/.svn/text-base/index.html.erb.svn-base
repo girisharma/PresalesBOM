@@ -1,0 +1,11 @@
+<h1>Projects</h1>
+  
+<% if @user.projects.size > 0 %>
+  <ul>
+  <% @user.projects.each do |project| %>
+    <li><%= link_to project.name, project_path(project) %></li>
+  <% end %>                                                    
+  </ul>
+<% else %>  
+  <p id='no_projects'>You don't have any projects. Add a project <%= link_to 'here', new_project_path %>.</p>
+<% end %>

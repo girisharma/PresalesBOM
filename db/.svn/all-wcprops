@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/presalesbom/!svn/ver/37/trunk/db
+END
+test.sqlite3
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/presalesbom/!svn/ver/28/trunk/db/test.sqlite3
+END
+seeds.rb
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/presalesbom/!svn/ver/1/trunk/db/seeds.rb
+END

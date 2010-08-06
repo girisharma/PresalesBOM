@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/presalesbom/!svn/ver/5/trunk/script
+END
+console
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/presalesbom/!svn/ver/1/trunk/script/console
+END
+autospec
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/presalesbom/!svn/ver/5/trunk/script/autospec
+END
+cucumber
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/presalesbom/!svn/ver/4/trunk/script/cucumber
+END
+server
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/presalesbom/!svn/ver/1/trunk/script/server
+END
+dbconsole
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/presalesbom/!svn/ver/1/trunk/script/dbconsole
+END
+destroy
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/presalesbom/!svn/ver/1/trunk/script/destroy
+END
+runner
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/presalesbom/!svn/ver/1/trunk/script/runner
+END
+about
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/presalesbom/!svn/ver/1/trunk/script/about
+END
+generate
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/presalesbom/!svn/ver/1/trunk/script/generate
+END
+spec
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/presalesbom/!svn/ver/5/trunk/script/spec
+END
+plugin
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/presalesbom/!svn/ver/1/trunk/script/plugin
+END

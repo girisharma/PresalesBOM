@@ -1,0 +1,77 @@
+10
+
+dir
+51
+http://wsb-web01/svn/presalesbom/trunk/test
+http://wsb-web01/svn/presalesbom
+
+
+
+2010-07-14T16:18:53.233190Z
+1
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+109fff0a-0b12-4189-87e7-764eb5e88216
+
+unit
+dir
+
+test_helper.rb
+file
+
+
+
+
+2010-07-28T18:22:01.973655Z
+e297614c72684d065aef001f86188732
+2010-07-14T16:18:53.233190Z
+1
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1800
+
+performance
+dir
+
+functional
+dir
+
+integration
+dir
+
+fixtures
+dir
+

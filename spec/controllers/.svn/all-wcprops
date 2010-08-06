@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/presalesbom/!svn/ver/45/trunk/spec/controllers
+END
+application_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/presalesbom/!svn/ver/45/trunk/spec/controllers/application_controller_spec.rb
+END
+opportunities_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/presalesbom/!svn/ver/2/trunk/spec/controllers/opportunities_controller_spec.rb
+END
+inventories_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/presalesbom/!svn/ver/2/trunk/spec/controllers/inventories_controller_spec.rb
+END
+sites_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/presalesbom/!svn/ver/2/trunk/spec/controllers/sites_controller_spec.rb
+END
+projects_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/presalesbom/!svn/ver/41/trunk/spec/controllers/projects_controller_spec.rb
+END
+dashboards_controller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/presalesbom/!svn/ver/10/trunk/spec/controllers/dashboards_controller_spec.rb
+END

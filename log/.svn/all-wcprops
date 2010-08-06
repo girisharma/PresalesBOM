@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/presalesbom/!svn/ver/31/trunk/log
+END
+test.log
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/presalesbom/!svn/ver/31/trunk/log/test.log
+END
+development.log
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/presalesbom/!svn/ver/31/trunk/log/development.log
+END
+production.log
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/presalesbom/!svn/ver/1/trunk/log/production.log
+END
+server.log
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/presalesbom/!svn/ver/1/trunk/log/server.log
+END

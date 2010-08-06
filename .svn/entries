@@ -1,0 +1,169 @@
+10
+
+dir
+51
+http://wsb-web01/svn/presalesbom/trunk
+http://wsb-web01/svn/presalesbom
+
+
+
+2010-08-05T21:10:49.443059Z
+51
+mnyon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+109fff0a-0b12-4189-87e7-764eb5e88216
+
+test
+dir
+
+app
+dir
+
+log
+dir
+
+Rakefile
+file
+
+
+
+
+2010-07-28T18:22:02.433655Z
+17f2f134da4cd31ea095d5868ca89e86
+2010-07-14T16:18:53.233190Z
+1
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+307
+
+db
+dir
+
+spec
+dir
+
+README
+file
+
+
+
+
+2010-07-28T18:22:02.433655Z
+a58e68a7599c976f071d5b9c6fa67fb3
+2010-07-14T16:18:53.233190Z
+1
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10011
+
+vendor
+dir
+
+tmp
+dir
+
+script
+dir
+
+config
+dir
+
+doc
+dir
+
+lib
+dir
+
+Gemfile
+file
+
+
+
+
+2010-07-28T18:22:02.433655Z
+bff6cd607542c1f23c0b8a16832a0698
+2010-07-26T16:07:24.975494Z
+34
+mnyon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+816
+
+features
+dir
+
+public
+dir
+

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/presalesbom/!svn/ver/11/trunk/app/views/user
+END
+error.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/presalesbom/!svn/ver/11/trunk/app/views/user/error.html.erb
+END

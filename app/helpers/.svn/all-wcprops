@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/presalesbom/!svn/ver/10/trunk/app/helpers
+END
+application_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/presalesbom/!svn/ver/1/trunk/app/helpers/application_helper.rb
+END
+opportunities_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/presalesbom/!svn/ver/2/trunk/app/helpers/opportunities_helper.rb
+END
+inventories_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/presalesbom/!svn/ver/2/trunk/app/helpers/inventories_helper.rb
+END
+sites_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/presalesbom/!svn/ver/2/trunk/app/helpers/sites_helper.rb
+END
+projects_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/presalesbom/!svn/ver/2/trunk/app/helpers/projects_helper.rb
+END
+dashboards_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/presalesbom/!svn/ver/10/trunk/app/helpers/dashboards_helper.rb
+END

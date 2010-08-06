@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/presalesbom/!svn/ver/31/trunk/features/support
+END
+paths.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/presalesbom/!svn/ver/31/trunk/features/support/paths.rb
+END
+hooks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/presalesbom/!svn/ver/31/trunk/features/support/hooks.rb
+END
+env.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/presalesbom/!svn/ver/12/trunk/features/support/env.rb
+END

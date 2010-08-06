@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/presalesbom/!svn/ver/50/trunk/features/step_definitions
+END
+user_logs_into_site_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/presalesbom/!svn/ver/29/trunk/features/step_definitions/user_logs_into_site_steps.rb
+END
+adding_site_to_opportunities_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/presalesbom/!svn/ver/50/trunk/features/step_definitions/adding_site_to_opportunities_steps.rb
+END
+project_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/presalesbom/!svn/ver/29/trunk/features/step_definitions/project_steps.rb
+END
+web_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/presalesbom/!svn/ver/29/trunk/features/step_definitions/web_steps.rb
+END

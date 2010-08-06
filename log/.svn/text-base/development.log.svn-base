@@ -1,0 +1,84 @@
+
+
+Processing DashboardsController#show (for 127.0.0.1 at 2010-07-19 15:14:43) [GET]
+  Parameters: {"action"=>"show", "id"=>"show", "controller"=>"dashboards"}
+Rendering dashboards/show
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/dashboards/show]
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (1.7ms)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("schema_migrations")[0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;35;1mSQL (0.3ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+Migrating to CreateProjects (20100720175154)
+  [4;35;1mSQL (0.5ms)[0m   [0mCREATE TABLE "projects" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "user_id" integer, "name" varchar(255), "description" text, "created_at" datetime, "updated_at" datetime) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20100720175154')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("projects")[0m
+  [4;36;1mSQL (0.7ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+
+
+Processing ProjectsController#show (for 127.0.0.1 at 2010-07-21 14:50:45) [GET]
+  Parameters: {"action"=>"show", "id"=>"index", "controller"=>"projects"}
+
+ActionController::UnknownAction (No action responded to show. Actions: authenticate, current_user, current_user=, get_remote_user, and index):
+  thin (1.2.7) lib/thin/connection.rb:76:in `pre_process'
+  thin (1.2.7) lib/thin/connection.rb:74:in `catch'
+  thin (1.2.7) lib/thin/connection.rb:74:in `pre_process'
+  thin (1.2.7) lib/thin/connection.rb:57:in `process'
+  thin (1.2.7) lib/thin/connection.rb:42:in `receive_data'
+  eventmachine (0.12.10) lib/eventmachine.rb:256:in `run_machine'
+  eventmachine (0.12.10) lib/eventmachine.rb:256:in `run'
+  thin (1.2.7) lib/thin/backends/base.rb:57:in `start'
+  thin (1.2.7) lib/thin/server.rb:156:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ProjectsController#index (for 127.0.0.1 at 2010-07-21 14:52:39) [GET]
+  Parameters: {"action"=>"index", "controller"=>"projects"}
+
+ActionView::MissingTemplate (Missing template projects/index.erb in view path app/views):
+  thin (1.2.7) lib/thin/connection.rb:76:in `pre_process'
+  thin (1.2.7) lib/thin/connection.rb:74:in `catch'
+  thin (1.2.7) lib/thin/connection.rb:74:in `pre_process'
+  thin (1.2.7) lib/thin/connection.rb:57:in `process'
+  thin (1.2.7) lib/thin/connection.rb:42:in `receive_data'
+  eventmachine (0.12.10) lib/eventmachine.rb:256:in `run_machine'
+  eventmachine (0.12.10) lib/eventmachine.rb:256:in `run'
+  thin (1.2.7) lib/thin/backends/base.rb:57:in `start'
+  thin (1.2.7) lib/thin/server.rb:156:in `start'
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ProjectsController#show (for 127.0.0.1 at 2010-07-21 15:52:46) [GET]
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"projects"}
+
+ActionController::UnknownAction (No action responded to show. Actions: authenticate, current_user, current_user=, get_remote_user, and index):
+  thin (1.2.7) lib/thin/connection.rb:76:in `pre_process'
+  thin (1.2.7) lib/thin/connection.rb:74:in `catch'
+  thin (1.2.7) lib/thin/connection.rb:74:in `pre_process'
+  thin (1.2.7) lib/thin/connection.rb:57:in `process'
+  thin (1.2.7) lib/thin/connection.rb:42:in `receive_data'
+  eventmachine (0.12.10) lib/eventmachine.rb:256:in `run_machine'
+  eventmachine (0.12.10) lib/eventmachine.rb:256:in `run'
+  thin (1.2.7) lib/thin/backends/base.rb:57:in `start'
+  thin (1.2.7) lib/thin/server.rb:156:in `start'
+
+Rendering rescues/layout (not_found)

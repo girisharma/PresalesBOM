@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/presalesbom/!svn/ver/37/trunk/db/migrate
+END
+20100720175154_create_projects.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/presalesbom/!svn/ver/20/trunk/db/migrate/20100720175154_create_projects.rb
+END
+20100726194636_create_sites.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/presalesbom/!svn/ver/37/trunk/db/migrate/20100726194636_create_sites.rb
+END
+20100726181133_create_opportunities.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/presalesbom/!svn/ver/37/trunk/db/migrate/20100726181133_create_opportunities.rb
+END
+20100726174203_update_projects_add_attributes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/presalesbom/!svn/ver/37/trunk/db/migrate/20100726174203_update_projects_add_attributes.rb
+END

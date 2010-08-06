@@ -1,0 +1,7 @@
+<h1> Show Project: </h1>
+
+<p>Project Name: <%= @project.name %> </p>
+
+<p>Project Description: <%= @project.description %>
+
+<p>Project Cost: <%= @project.cost.symbol %><%= @project.cost %> 

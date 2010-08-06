@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/presalesbom/!svn/ver/5/trunk/lib/tasks
+END
+cucumber.rake
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/presalesbom/!svn/ver/4/trunk/lib/tasks/cucumber.rake
+END
+rspec.rake
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/presalesbom/!svn/ver/5/trunk/lib/tasks/rspec.rake
+END

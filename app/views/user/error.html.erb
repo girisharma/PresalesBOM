@@ -1,0 +1,10 @@
+<script language="JavaScript">
+<!--  
+  setTimeout("location.href='/'", 5000);
+</script>
+<% if flash[:error] %>
+  <p>ERROR: <%= flash[:error] %></p>
+<% else %>
+  <p>You have reached this page due to an unknown error when trying to log in. Please try again or contact (who?) for assistance. Thank you.</p>
+<% end %>
+

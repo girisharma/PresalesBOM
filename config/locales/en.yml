@@ -1,0 +1,13 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See http://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  cucumber:
+    user_active_resource_url: http://localhost:4567/
+  development:
+    user_active_resource_url: http://localhost:4567/
+  test:
+    user_active_resource_url: http://localhost:4567/
+  production:
+    user_active_resource_url: http://user-service/
+  

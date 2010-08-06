@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/presalesbom/!svn/ver/42/trunk/spec/models
+END
+site_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/presalesbom/!svn/ver/38/trunk/spec/models/site_spec.rb
+END
+project_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/presalesbom/!svn/ver/39/trunk/spec/models/project_spec.rb
+END
+opportunity_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/presalesbom/!svn/ver/39/trunk/spec/models/opportunity_spec.rb
+END
+user_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/presalesbom/!svn/ver/42/trunk/spec/models/user_spec.rb
+END
